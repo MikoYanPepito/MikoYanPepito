@@ -8,10 +8,9 @@
 <img src="https://img.shields.io/badge/-itadoripepito@gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### Current Status Quo:
-- 👋 Hi, I’m @MikoYanPepito
--🧑‍🎓 I'm Student 
-- 🌱 I’m currently learning and studying  ...
-- 👋 Hi, I’m @MikoYanPepito
+- 👋 Hi, I’m @MikoYanPepito<br>
+- 👋 I'm Student 
+- 🌱 I’m currently learning and studying.
 - 👀 I’m interested in ... programming, web dev and back end 
 
 <!---
